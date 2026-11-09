@@ -1,0 +1,1 @@
+Natural Language Processing allows computers to understand and process human language. It is used in chatbots, language translation, speech recognition, and text summarization. NLP improves communication between humans and computers.

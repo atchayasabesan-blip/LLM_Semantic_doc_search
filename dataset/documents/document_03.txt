@@ -1,0 +1,1 @@
+Student performance analysis uses academic marks, attendance, assignment results, and examination scores. Educational institutions use this information to identify students who need additional support and improve learning outcomes.

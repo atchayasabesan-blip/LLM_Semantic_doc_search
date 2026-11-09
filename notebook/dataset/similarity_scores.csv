@@ -1,0 +1,76 @@
+﻿Query_Number,Query,Rank,Distance,Similarity_Score
+1,How does artificial intelligence help students learn?,1,0.2317,0.8119
+1,How does artificial intelligence help students learn?,2,0.2884,0.7762
+1,How does artificial intelligence help students learn?,3,0.3408,0.7458
+1,How does artificial intelligence help students learn?,4,0.3829,0.7231
+1,How does artificial intelligence help students learn?,5,0.4032,0.7127
+2,How can computers understand human language?,1,0.4065,0.711
+2,How can computers understand human language?,2,0.461,0.6845
+2,How can computers understand human language?,3,0.4678,0.6813
+2,How can computers understand human language?,4,0.5808,0.6326
+2,How can computers understand human language?,5,0.6216,0.6167
+3,How can teachers identify weak students?,1,0.5374,0.6504
+3,How can teachers identify weak students?,2,0.5777,0.6338
+3,How can teachers identify weak students?,3,0.5852,0.6309
+3,How can teachers identify weak students?,4,0.6716,0.5982
+3,How can teachers identify weak students?,5,0.6741,0.5973
+4,How is student information protected?,1,0.1834,0.845
+4,How is student information protected?,2,0.2306,0.8126
+4,How is student information protected?,3,0.4617,0.6841
+4,How is student information protected?,4,0.5379,0.6502
+4,How is student information protected?,5,0.5381,0.6501
+5,How do online classes help students?,1,0.2444,0.8036
+5,How do online classes help students?,2,0.3425,0.7449
+5,How do online classes help students?,3,0.3604,0.7351
+5,How do online classes help students?,4,0.5584,0.6417
+5,How do online classes help students?,5,0.5607,0.6408
+6,How can lessons be personalized?,1,0.4197,0.7044
+6,How can lessons be personalized?,2,0.4568,0.6864
+6,How can lessons be personalized?,3,0.4577,0.686
+6,How can lessons be personalized?,4,0.5178,0.6589
+6,How can lessons be personalized?,5,0.5523,0.6442
+7,What are the uses of AI chatbots?,1,0.2598,0.7938
+7,What are the uses of AI chatbots?,2,0.2665,0.7896
+7,What are the uses of AI chatbots?,3,0.3283,0.7529
+7,What are the uses of AI chatbots?,4,0.3878,0.7205
+7,What are the uses of AI chatbots?,5,0.4062,0.7112
+8,How can AI bias be reduced?,1,0.2267,0.8152
+8,How can AI bias be reduced?,2,0.2381,0.8077
+8,How can AI bias be reduced?,3,0.5134,0.6608
+8,How can AI bias be reduced?,4,0.6051,0.623
+8,How can AI bias be reduced?,5,0.6824,0.5944
+9,How does cloud computing help education?,1,0.2096,0.8267
+9,How does cloud computing help education?,2,0.2123,0.8249
+9,How does cloud computing help education?,3,0.5194,0.6582
+9,How does cloud computing help education?,4,0.5334,0.6522
+9,How does cloud computing help education?,5,0.5501,0.6451
+10,How can online learning systems be secured?,1,0.3279,0.7531
+10,How can online learning systems be secured?,2,0.3432,0.7445
+10,How can online learning systems be secured?,3,0.3829,0.7231
+10,How can online learning systems be secured?,4,0.3841,0.7225
+10,How can online learning systems be secured?,5,0.3979,0.7154
+11,How does machine learning improve education?,1,0.2967,0.7712
+11,How does machine learning improve education?,2,0.3284,0.7528
+11,How does machine learning improve education?,3,0.4335,0.6976
+11,How does machine learning improve education?,4,0.4545,0.6875
+11,How does machine learning improve education?,5,0.496,0.6685
+12,How can student attendance be analyzed?,1,0.3306,0.7515
+12,How can student attendance be analyzed?,2,0.3362,0.7484
+12,How can student attendance be analyzed?,3,0.3439,0.7441
+12,How can student attendance be analyzed?,4,0.5447,0.6474
+12,How can student attendance be analyzed?,5,0.5665,0.6384
+13,How does automatic translation work?,1,0.563,0.6398
+13,How does automatic translation work?,2,0.6084,0.6217
+13,How does automatic translation work?,3,0.6097,0.6213
+13,How does automatic translation work?,4,0.6503,0.606
+13,How does automatic translation work?,5,0.7871,0.5596
+14,How can technology support teachers?,1,0.5347,0.6516
+14,How can technology support teachers?,2,0.5634,0.6396
+14,How can technology support teachers?,3,0.5739,0.6354
+14,How can technology support teachers?,4,0.593,0.6277
+14,How can technology support teachers?,5,0.6171,0.6184
+15,How can students improve their learning performance?,1,0.4396,0.6946
+15,How can students improve their learning performance?,2,0.4583,0.6857
+15,How can students improve their learning performance?,3,0.5068,0.6637
+15,How can students improve their learning performance?,4,0.5146,0.6602
+15,How can students improve their learning performance?,5,0.5276,0.6546
